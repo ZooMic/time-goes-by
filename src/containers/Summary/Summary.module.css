@@ -1,0 +1,10 @@
+.alignRight {
+    text-align: right;
+}
+
+.summaryBlock {
+    font-size: large;
+    font-weight: 900;
+    padding: 10px;
+    background: #e0e0e0;
+}

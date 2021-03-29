@@ -1,0 +1,16 @@
+.timelineIcon {
+    margin-right: 20px;
+}
+
+.timelineItem {
+    padding: 5px 20px;
+    border-bottom: 1px solid gray;
+}
+
+.timelineItem:last-child {
+    border-bottom: 0px;
+}
+
+.timelineItem:hover {
+    background-color: gray;
+}
